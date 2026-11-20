@@ -8,3 +8,10 @@ C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Orie
 C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\7.2 Strategy Huber\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
 C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\7.2 Strategy Huber\StrategyPattern\obj\Debug\StrategyPattern.exe
 C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\7.2 Strategy Huber\StrategyPattern\obj\Debug\StrategyPattern.pdb
+C:\Users\Kayla\source\repos\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\Kayla\source\repos\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\Kayla\source\repos\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\Kayla\source\repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.AssemblyReference.cache
+C:\Users\Kayla\source\repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\source\repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\Kayla\source\repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
