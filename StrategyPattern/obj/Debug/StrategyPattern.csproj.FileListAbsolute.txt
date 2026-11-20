@@ -15,3 +15,10 @@ C:\Users\Kayla\source\repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPa
 C:\Users\Kayla\source\repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
 C:\Users\Kayla\source\repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
 C:\Users\Kayla\source\repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
+C:\Users\Kayla\source\repos\DesignPatterns\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\Kayla\source\repos\DesignPatterns\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\Kayla\source\repos\DesignPatterns\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\Kayla\source\repos\DesignPatterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.AssemblyReference.cache
+C:\Users\Kayla\source\repos\DesignPatterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\source\repos\DesignPatterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\Kayla\source\repos\DesignPatterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
